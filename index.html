@@ -17,7 +17,7 @@ main{max-width:1100px;margin:auto;padding:8px 20px 40px}
 .missing{display:flex;align-items:center;justify-content:center;aspect-ratio:9/16;border:2px dashed #ccc;border-radius:8px;color:#888;text-align:center;padding:10px}
 </style></head><body>
 <header><h1>Docian AI – daily videos</h1>
-<p class="sub">Every day: 2 concepts. Concept 1 is the glass video, concept 2 is the brand film. Each comes in English and Telugu, so 4 videos a day. Files: v/&lt;day&gt;/&lt;glass|brand&gt;/&lt;language&gt;-c&lt;id&gt;.mp4</p></header>
+<p class="sub">Every day: 2 concepts. Concept 1 is the glass video, concept 2 is the brand film. Each comes in English and Telugu, so 4 videos a day. Files: one folder per date, named by type, concept and language, e.g. 2026-11-17/glass__smart-folders__parents-and-kids__telugu__c84.mp4</p></header>
 <main id="days">Loading…</main>
 <script>
 const L={en:"English",te:"Telugu"},T={glass:"Glass video",brand:"Brand film"};
@@ -32,7 +32,7 @@ fetch("days.json?"+Date.now()).then(r=>r.json()).then(days=>{
    b.innerHTML=`<h3>Concept ${i+1}: ${T[t]}<span class="tag">${t}</span></h3><div class="concept">${s.feature||""}${s.pain?" — "+s.pain:""}</div>`;
    const g=document.createElement("div");g.className="grid";
    for(const lang of ["en","te"]){const v=s.videos[lang];const c=document.createElement("div");c.className="v";
-    c.innerHTML=v?`<video controls preload="metadata" src="${v.preview_url}"></video><b>${L[lang]} · c${v.content_id}</b><a href="${v.preview_url}">Open video</a><a href="${v.decide_url}">Approve / reject</a>`
+    c.innerHTML=v?`<video controls preload="metadata" src="${v.preview_url}"></video><b>${L[lang]} · c${v.content_id}</b><small style="display:block;color:#888;word-break:break-all;margin-bottom:4px">${(v.preview_url.split("/v/")[1]||"")}</small><a href="${v.preview_url}">Open video</a><a href="${v.decide_url}">Approve / reject</a>`
                  :`<div class="missing">${L[lang]} ${T[t].toLowerCase()}<br>still rendering</div><b>${L[lang]}</b>`;
     g.appendChild(c);}
    b.appendChild(g);d.appendChild(b);});

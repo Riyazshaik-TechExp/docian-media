@@ -166,5 +166,17 @@
   "text": "Medical? School? Same drawer.\n\nఅమ్మ నాన్నల మెడికల్ రిపోర్ట్స్, పిల్లల స్కూల్ సర్టిఫికెట్స్ అన్నీ ఒకే డ్రాయర్‌లో ఉండి వెతకలేక విసిగిపోతున్నారా?\n\n• Docian AI లో డాక్యుమెంట్ సేవ్ చేయగానే, అది కరెక్ట్ ఫోల్డర్ లోకి వెళ్తుంది.\n• Medical, Education, Finance, Insurance లాంటి 6 డిఫాల్ట్ ఫోల్డర్స్ ఉంటాయి, అంతేకాదు మీ సొంత ఫోల్డర్స్ క్రియేట్ చేసుకోవచ్చు.\n\nఇక ఏ డాక్యుమెంట్ అయినా సెకన్లలో దొరుకుతుంది.\n\nDocian AI ని Google Play లో డౌన్‌లోడ్ చేసుకోండి. https://docian-growth.vercel.app/r/2ymz5hkx\n\n#DocianAI #తెలుగు #డాక్యుమెంట్లు",
   "decide_url": "https://docian-growth.vercel.app/decide/71",
   "added": "2026-11-16T12:28:36+00:00"
+ },
+ {
+  "content_id": 78,
+  "kind": "shorts_script",
+  "language": "te",
+  "title": "Dokky - TTE ticket check ki immediate help | Docian AI",
+  "feature": "Just ask, get the document",
+  "pain": "At the railway station gate the TTE asks for your ID and ticket",
+  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/78-c78_te_ask_doc_brand.mp4",
+  "text": "",
+  "decide_url": "https://docian-growth.vercel.app/decide/78",
+  "added": "2026-11-16T12:28:42+00:00"
  }
 ]

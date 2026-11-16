@@ -278,5 +278,19 @@
   "set_day": "2026-11-17",
   "video_type": "glass",
   "added": "2026-11-16T23:50:56+00:00"
+ },
+ {
+  "content_id": 93,
+  "kind": "reel_script",
+  "language": "te",
+  "title": "మెడికలా? స్కూలా? ఒకే డ్రాయర్. | ఆటోమేటిక్‌గా సర్దుబాటు, మీకు నచ్చినట్టు | Docian AI",
+  "feature": "Sorted automatically, your way",
+  "pain": "Parents' medical files and kids' school certificates all in one drawer",
+  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-17/glass__smart-folders__parents-and-kids__telugu__c93.mp4",
+  "text": "",
+  "decide_url": "https://docian-growth.vercel.app/decide/93",
+  "set_day": "2026-11-17",
+  "video_type": "glass",
+  "added": "2026-11-16T23:51:05+00:00"
  }
 ]

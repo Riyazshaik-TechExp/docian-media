@@ -1,0 +1,34 @@
+{
+ "2026-11-16": {
+  "glass": {
+   "feature": "Sorted automatically, your way",
+   "pain": "Parents' medical files and kids' school certificates all in one drawer",
+   "videos": {
+    "en": {
+     "content_id": 73,
+     "title": "Stop digging through messy document drawers with Docian AI",
+     "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/73-c73_en_ask_doc_glass.mp4",
+     "decide_url": "https://docian-growth.vercel.app/decide/73"
+    }
+   }
+  },
+  "brand": {
+   "feature": "Just ask, get the document",
+   "pain": "At the railway station gate the TTE asks for your ID and ticket",
+   "videos": {
+    "en": {
+     "content_id": 74,
+     "title": "Find your ID and ticket instantly with Docian AI",
+     "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/74-c74_en_ask_doc_brand.mp4",
+     "decide_url": "https://docian-growth.vercel.app/decide/74"
+    },
+    "te": {
+     "content_id": 78,
+     "title": "Dokky - TTE ticket check ki immediate help",
+     "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/78-c78_te_ask_doc_brand.mp4",
+     "decide_url": "https://docian-growth.vercel.app/decide/78"
+    }
+   }
+  }
+ }
+}

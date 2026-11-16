@@ -1,4 +1,18 @@
 {
+ "2026-11-17": {
+  "glass": {
+   "feature": "Sorted automatically, your way",
+   "pain": "Parents' medical files and kids' school certificates all in one drawer",
+   "videos": {
+    "en": {
+     "content_id": 92,
+     "title": "Stop searching paper drawers with Docian AI",
+     "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-17/glass__smart-folders__parents-and-kids__english__c92.mp4",
+     "decide_url": "https://docian-growth.vercel.app/decide/92"
+    }
+   }
+  }
+ },
  "2026-11-16": {
   "glass": {
    "feature": "Sorted automatically, your way",

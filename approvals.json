@@ -292,5 +292,19 @@
   "set_day": "2026-11-17",
   "video_type": "glass",
   "added": "2026-11-16T23:51:05+00:00"
+ },
+ {
+  "content_id": 94,
+  "kind": "shorts_script",
+  "language": "te",
+  "title": "ID, టికెట్ చూపించండి. | అడగండి, డాక్యుమెంట్ వచ్చేస్తుంది | Docian AI",
+  "feature": "Just ask, get the document",
+  "pain": "At the railway station gate the TTE asks for your ID and ticket",
+  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-17/brand__chat-get-docs__ticket-at-gate__telugu__c94.mp4",
+  "text": "",
+  "decide_url": "https://docian-growth.vercel.app/decide/94",
+  "set_day": "2026-11-17",
+  "video_type": "brand",
+  "added": "2026-11-16T23:51:11+00:00"
  }
 ]

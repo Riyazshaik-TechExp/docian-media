@@ -11,6 +11,18 @@
      "decide_url": "https://docian-growth.vercel.app/decide/96"
     }
    }
+  },
+  "brand": {
+   "feature": "Understand any document in your language",
+   "pain": "A legal notice in heavy English arrives and nobody at home can explain it",
+   "videos": {
+    "en": {
+     "content_id": 97,
+     "title": "Understand any document in your language with Docian AI | Docian AI",
+     "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-17/brand__ask-in-language__legal-notice-tamil__english__c97.mp4",
+     "decide_url": "https://docian-growth.vercel.app/decide/97"
+    }
+   }
   }
  },
  "2026-11-16": {

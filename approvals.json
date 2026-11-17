@@ -82,5 +82,19 @@
   "set_day": "2026-11-17",
   "video_type": "brand",
   "added": "2026-11-17T09:45:26+00:00"
+ },
+ {
+  "content_id": 98,
+  "kind": "shorts_script",
+  "language": "te",
+  "title": "Understand any document in your language with Docian AI | Docian AI",
+  "feature": "Understand any document in your language",
+  "pain": "A legal notice in heavy English arrives and nobody at home can explain it",
+  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-17/brand__ask-in-language__legal-notice-tamil__telugu__c98.mp4",
+  "text": "",
+  "decide_url": "https://docian-growth.vercel.app/decide/98",
+  "set_day": "2026-11-17",
+  "video_type": "brand",
+  "added": "2026-11-17T09:45:34+00:00"
  }
 ]

@@ -1,36 +1,4 @@
 {
- "2026-11-17": {
-  "glass": {
-   "feature": "Sorted automatically, your way",
-   "pain": "Parents' medical files and kids' school certificates all in one drawer",
-   "videos": {
-    "en": {
-     "content_id": 92,
-     "title": "Stop searching paper drawers with Docian AI",
-     "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-17/glass__smart-folders__parents-and-kids__english__c92.mp4",
-     "decide_url": "https://docian-growth.vercel.app/decide/92"
-    },
-    "te": {
-     "content_id": 93,
-     "title": "మెడికలా? స్కూలా? ఒకే డ్రాయర్. | ఆటోమేటిక్‌గా సర్దుబాటు, మీకు నచ్చినట్టు | Docian AI",
-     "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-17/glass__smart-folders__parents-and-kids__telugu__c93.mp4",
-     "decide_url": "https://docian-growth.vercel.app/decide/93"
-    }
-   }
-  },
-  "brand": {
-   "feature": "Just ask, get the document",
-   "pain": "At the railway station gate the TTE asks for your ID and ticket",
-   "videos": {
-    "te": {
-     "content_id": 94,
-     "title": "ID, టికెట్ చూపించండి. | అడగండి, డాక్యుమెంట్ వచ్చేస్తుంది | Docian AI",
-     "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-17/brand__chat-get-docs__ticket-at-gate__telugu__c94.mp4",
-     "decide_url": "https://docian-growth.vercel.app/decide/94"
-    }
-   }
-  }
- },
  "2026-11-16": {
   "glass": {
    "feature": "Sorted automatically, your way",

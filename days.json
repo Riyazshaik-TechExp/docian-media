@@ -1,4 +1,18 @@
 {
+ "2026-11-17": {
+  "glass": {
+   "feature": "Dates found while you save",
+   "pain": "The PUC certificate for your bike has a date printed on it that nobody ever remembers",
+   "videos": {
+    "te": {
+     "content_id": 96,
+     "title": "వారంటీ లేదా ఇన్సూరెన్స్ డేట్స్ మర్చిపోతున్నారా? Docian తో గుర్తుంచుకోండి | Docian AI",
+     "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-17/glass__save-dates__puc-certificate__telugu__c96.mp4",
+     "decide_url": "https://docian-growth.vercel.app/decide/96"
+    }
+   }
+  }
+ },
  "2026-11-16": {
   "glass": {
    "feature": "Sorted automatically, your way",

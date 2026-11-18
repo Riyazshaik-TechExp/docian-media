@@ -17,6 +17,18 @@
      "decide_url": "https://docian-growth.vercel.app/decide/105"
     }
    }
+  },
+  "brand": {
+   "feature": "Scan once, understand everything",
+   "pain": "A new job offer letter with a notice-period and bond clause hidden on page four",
+   "videos": {
+    "en": {
+     "content_id": 106,
+     "title": "Understand every clause in your job offer letter instantly | Docian AI",
+     "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-19/brand__scan-insights__offer-letter-clause__english__c106.mp4",
+     "decide_url": "https://docian-growth.vercel.app/decide/106"
+    }
+   }
   }
  },
  "2026-11-18": {

@@ -124,5 +124,19 @@
   "set_day": "2026-11-18",
   "video_type": "glass",
   "added": "2026-11-18T12:35:22+00:00"
+ },
+ {
+  "content_id": 101,
+  "kind": "reel_script",
+  "language": "te",
+  "title": "Phone పోతే మీ డాక్యుమెంట్స్ భయమేనా? | Docian AI",
+  "feature": "Your documents, end-to-end encrypted",
+  "pain": "You lose your phone in an auto and remember every document photo on it",
+  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-18/glass__encrypted-vault__lost-phone-fear__telugu__c101.mp4",
+  "text": "",
+  "decide_url": "https://docian-growth.vercel.app/decide/101",
+  "set_day": "2026-11-18",
+  "video_type": "glass",
+  "added": "2026-11-18T12:35:32+00:00"
  }
 ]

@@ -138,5 +138,19 @@
   "set_day": "2026-11-18",
   "video_type": "glass",
   "added": "2026-11-18T12:35:32+00:00"
+ },
+ {
+  "content_id": 102,
+  "kind": "shorts_script",
+  "language": "en",
+  "title": "Find any document on your phone with Docian AI | Docian AI",
+  "feature": "Find any document on your phone",
+  "pain": "Visa appointment tomorrow and the passport scan is saved somewhere in Google Drive from years ago",
+  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-18/brand__phone-search__passport-drive__english__c102.mp4",
+  "text": "",
+  "decide_url": "https://docian-growth.vercel.app/decide/102",
+  "set_day": "2026-11-18",
+  "video_type": "brand",
+  "added": "2026-11-18T12:35:40+00:00"
  }
 ]

@@ -1,4 +1,18 @@
 {
+ "2026-11-18": {
+  "glass": {
+   "feature": "Your documents, end-to-end encrypted",
+   "pain": "You lose your phone in an auto and remember every document photo on it",
+   "videos": {
+    "en": {
+     "content_id": 100,
+     "title": "Keep your personal documents safe with Docian AI",
+     "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-18/glass__encrypted-vault__lost-phone-fear__english__c100.mp4",
+     "decide_url": "https://docian-growth.vercel.app/decide/100"
+    }
+   }
+  }
+ },
  "2026-11-17": {
   "glass": {
    "feature": "Dates found while you save",

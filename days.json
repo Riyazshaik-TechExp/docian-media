@@ -1,4 +1,18 @@
 {
+ "2026-11-20": {
+  "glass": {
+   "feature": "Sorted automatically, your way",
+   "pain": "A small shop owner's GST bills mixed with personal bills and kids' school papers",
+   "videos": {
+    "en": {
+     "content_id": 108,
+     "title": "Stop sorting paper bills manually | Docian AI",
+     "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-20/glass__smart-folders__shop-and-personal__english__c108.mp4",
+     "decide_url": "https://docian-growth.vercel.app/decide/108"
+    }
+   }
+  }
+ },
  "2026-11-19": {
   "glass": {
    "feature": "Reminders 30 days before",

@@ -1,4 +1,18 @@
 {
+ "2026-11-21": {
+  "glass": {
+   "feature": "Understand any document in your language",
+   "pain": "Father receives an English letter from the insurance company and worries it is bad news",
+   "videos": {
+    "en": {
+     "content_id": 112,
+     "title": "Understand important documents in your own language with Docian AI",
+     "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-21/glass__ask-in-language__father-insurance-letter__english__c112.mp4",
+     "decide_url": "https://docian-growth.vercel.app/decide/112"
+    }
+   }
+  }
+ },
  "2026-11-20": {
   "glass": {
    "feature": "Sorted automatically, your way",

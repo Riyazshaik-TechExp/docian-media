@@ -17,6 +17,18 @@
      "decide_url": "https://docian-growth.vercel.app/decide/109"
     }
    }
+  },
+  "brand": {
+   "feature": "Just ask, get the document",
+   "pain": "HR needs your degree certificate today for background verification",
+   "videos": {
+    "en": {
+     "content_id": 110,
+     "title": "Find your saved documents instantly with Docian AI | Docian AI",
+     "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-20/brand__chat-get-docs__degree-for-hr__english__c110.mp4",
+     "decide_url": "https://docian-growth.vercel.app/decide/110"
+    }
+   }
   }
  },
  "2026-11-19": {

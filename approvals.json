@@ -1,47 +1,5 @@
 [
  {
-  "content_id": 73,
-  "kind": "reel_script",
-  "language": "en",
-  "title": "Stop digging through messy document drawers with Docian AI",
-  "feature": "Sorted automatically, your way",
-  "pain": "Parents' medical files and kids' school certificates all in one drawer",
-  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/73-c73_en_ask_doc_glass.mp4",
-  "text": "",
-  "decide_url": "https://docian-growth.vercel.app/decide/73",
-  "added": "2026-11-16T11:37:32+00:00",
-  "set_day": "2026-11-16",
-  "video_type": "glass"
- },
- {
-  "content_id": 74,
-  "kind": "shorts_script",
-  "language": "en",
-  "title": "Find your ID and ticket instantly with Docian AI | Docian AI",
-  "feature": "Just ask, get the document",
-  "pain": "At the railway station gate the TTE asks for your ID and ticket",
-  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/74-c74_en_ask_doc_brand.mp4",
-  "text": "",
-  "decide_url": "https://docian-growth.vercel.app/decide/74",
-  "added": "2026-11-16T11:37:39+00:00",
-  "set_day": "2026-11-16",
-  "video_type": "brand"
- },
- {
-  "content_id": 78,
-  "kind": "shorts_script",
-  "language": "te",
-  "title": "Dokky - TTE ticket check ki immediate help | Docian AI",
-  "feature": "Just ask, get the document",
-  "pain": "At the railway station gate the TTE asks for your ID and ticket",
-  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/78-c78_te_ask_doc_brand.mp4",
-  "text": "",
-  "decide_url": "https://docian-growth.vercel.app/decide/78",
-  "added": "2026-11-16T12:28:42+00:00",
-  "set_day": "2026-11-16",
-  "video_type": "brand"
- },
- {
   "content_id": 61,
   "kind": "reel_script",
   "language": "te",
@@ -222,5 +180,19 @@
   "set_day": "2026-11-19",
   "video_type": "brand",
   "added": "2026-11-18T22:09:43+00:00"
+ },
+ {
+  "content_id": 108,
+  "kind": "reel_script",
+  "language": "en",
+  "title": "Stop sorting paper bills manually | Docian AI",
+  "feature": "Sorted automatically, your way",
+  "pain": "A small shop owner's GST bills mixed with personal bills and kids' school papers",
+  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-20/glass__smart-folders__shop-and-personal__english__c108.mp4",
+  "text": "",
+  "decide_url": "https://docian-growth.vercel.app/decide/108",
+  "set_day": "2026-11-20",
+  "video_type": "glass",
+  "added": "2026-11-20T12:33:51+00:00"
  }
 ]

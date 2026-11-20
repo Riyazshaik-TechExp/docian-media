@@ -236,5 +236,19 @@
   "set_day": "2026-11-21",
   "video_type": "glass",
   "added": "2026-11-20T21:56:22+00:00"
+ },
+ {
+  "content_id": 113,
+  "kind": "reel_script",
+  "language": "te",
+  "title": "ఇన్సూరెన్స్ లెటర్ అర్థం కావడం లేదా? Docian AI తో సులువుగా తెలుసుకోండి",
+  "feature": "Understand any document in your language",
+  "pain": "Father receives an English letter from the insurance company and worries it is bad news",
+  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-21/glass__ask-in-language__father-insurance-letter__telugu__c113.mp4",
+  "text": "",
+  "decide_url": "https://docian-growth.vercel.app/decide/113",
+  "set_day": "2026-11-21",
+  "video_type": "glass",
+  "added": "2026-11-20T21:56:30+00:00"
  }
 ]

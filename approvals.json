@@ -250,5 +250,19 @@
   "set_day": "2026-11-21",
   "video_type": "glass",
   "added": "2026-11-20T21:56:30+00:00"
+ },
+ {
+  "content_id": 114,
+  "kind": "shorts_script",
+  "language": "en",
+  "title": "Never miss a renewal date with Docian AI | Docian AI",
+  "feature": "Dates found while you save",
+  "pain": "A yearly membership receipt with an auto-renewal date buried in it",
+  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-21/brand__save-dates__gym-membership__english__c114.mp4",
+  "text": "",
+  "decide_url": "https://docian-growth.vercel.app/decide/114",
+  "set_day": "2026-11-21",
+  "video_type": "brand",
+  "added": "2026-11-20T21:56:36+00:00"
  }
 ]

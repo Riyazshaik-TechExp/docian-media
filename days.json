@@ -1,4 +1,18 @@
 {
+ "2026-11-22": {
+  "glass": {
+   "feature": "Your documents, end-to-end encrypted",
+   "pain": "Private medical reports saved where anyone scrolling your phone can see them",
+   "videos": {
+    "en": {
+     "content_id": 116,
+     "title": "Keep private documents truly private with Docian AI",
+     "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-22/glass__encrypted-vault__private-medical__english__c116.mp4",
+     "decide_url": "https://docian-growth.vercel.app/decide/116"
+    }
+   }
+  }
+ },
  "2026-11-21": {
   "glass": {
    "feature": "Understand any document in your language",

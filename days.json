@@ -17,6 +17,18 @@
      "decide_url": "https://docian-growth.vercel.app/decide/117"
     }
    }
+  },
+  "brand": {
+   "feature": "Find any document on your phone",
+   "pain": "The landlord wants the rent agreement PDF tonight and you have five PDFs all called 'scan'",
+   "videos": {
+    "te": {
+     "content_id": 119,
+     "title": "Dokky - Find any document on your phone | Docian AI",
+     "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-22/brand__phone-search__rent-agreement-pdf__telugu__c119.mp4",
+     "decide_url": "https://docian-growth.vercel.app/decide/119"
+    }
+   }
   }
  },
  "2026-11-21": {

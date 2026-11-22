@@ -1,61 +1,5 @@
 [
  {
-  "content_id": 100,
-  "kind": "reel_script",
-  "language": "en",
-  "title": "Keep your personal documents safe with Docian AI",
-  "feature": "Your documents, end-to-end encrypted",
-  "pain": "You lose your phone in an auto and remember every document photo on it",
-  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-18/glass__encrypted-vault__lost-phone-fear__english__c100.mp4",
-  "text": "",
-  "decide_url": "https://docian-growth.vercel.app/decide/100",
-  "set_day": "2026-11-18",
-  "video_type": "glass",
-  "added": "2026-11-18T12:35:22+00:00"
- },
- {
-  "content_id": 101,
-  "kind": "reel_script",
-  "language": "te",
-  "title": "Phone పోతే మీ డాక్యుమెంట్స్ భయమేనా? | Docian AI",
-  "feature": "Your documents, end-to-end encrypted",
-  "pain": "You lose your phone in an auto and remember every document photo on it",
-  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-18/glass__encrypted-vault__lost-phone-fear__telugu__c101.mp4",
-  "text": "",
-  "decide_url": "https://docian-growth.vercel.app/decide/101",
-  "set_day": "2026-11-18",
-  "video_type": "glass",
-  "added": "2026-11-18T12:35:32+00:00"
- },
- {
-  "content_id": 102,
-  "kind": "shorts_script",
-  "language": "en",
-  "title": "Find any document on your phone with Docian AI | Docian AI",
-  "feature": "Find any document on your phone",
-  "pain": "Visa appointment tomorrow and the passport scan is saved somewhere in Google Drive from years ago",
-  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-18/brand__phone-search__passport-drive__english__c102.mp4",
-  "text": "",
-  "decide_url": "https://docian-growth.vercel.app/decide/102",
-  "set_day": "2026-11-18",
-  "video_type": "brand",
-  "added": "2026-11-18T12:35:40+00:00"
- },
- {
-  "content_id": 103,
-  "kind": "shorts_script",
-  "language": "te",
-  "title": "డ్రైవ్‌లోనా? డౌన్‌లోడ్స్‌లోనా? | ఫోన్‌లో ఏ డాక్యుమెంట్ అయినా వెంటనే | Docian AI",
-  "feature": "Find any document on your phone",
-  "pain": "Visa appointment tomorrow and the passport scan is saved somewhere in Google Drive from years ago",
-  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-18/brand__phone-search__passport-drive__telugu__c103.mp4",
-  "text": "",
-  "decide_url": "https://docian-growth.vercel.app/decide/103",
-  "set_day": "2026-11-18",
-  "video_type": "brand",
-  "added": "2026-11-18T12:35:51+00:00"
- },
- {
   "content_id": 104,
   "kind": "reel_script",
   "language": "en",
@@ -278,5 +222,19 @@
   "set_day": "2026-11-22",
   "video_type": "brand",
   "added": "2026-11-22T11:25:54+00:00"
+ },
+ {
+  "content_id": 120,
+  "kind": "reel_script",
+  "language": "te",
+  "title": "బర్త్ సర్టిఫికెట్ ఎక్కడ? | Docian AI",
+  "feature": "",
+  "pain": "",
+  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-23/story__video__video__telugu__c120.mp4",
+  "text": "",
+  "decide_url": "https://docian-growth.vercel.app/decide/120",
+  "set_day": "2026-11-23",
+  "video_type": "story",
+  "added": "2026-11-22T20:28:37+00:00"
  }
 ]

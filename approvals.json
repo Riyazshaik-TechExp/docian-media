@@ -1,61 +1,5 @@
 [
  {
-  "content_id": 104,
-  "kind": "reel_script",
-  "language": "en",
-  "title": "Never miss a document deadline again with Docian AI",
-  "feature": "Reminders 30 days before",
-  "pain": "The school fee last date passed while you were busy at work",
-  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-19/glass__reminders__school-fee-last-date__english__c104.mp4",
-  "text": "",
-  "decide_url": "https://docian-growth.vercel.app/decide/104",
-  "set_day": "2026-11-19",
-  "video_type": "glass",
-  "added": "2026-11-18T22:09:21+00:00"
- },
- {
-  "content_id": 105,
-  "kind": "reel_script",
-  "language": "te",
-  "title": "Document Date Reminders with Docian AI",
-  "feature": "Reminders 30 days before",
-  "pain": "The school fee last date passed while you were busy at work",
-  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-19/glass__reminders__school-fee-last-date__telugu__c105.mp4",
-  "text": "",
-  "decide_url": "https://docian-growth.vercel.app/decide/105",
-  "set_day": "2026-11-19",
-  "video_type": "glass",
-  "added": "2026-11-18T22:09:30+00:00"
- },
- {
-  "content_id": 106,
-  "kind": "shorts_script",
-  "language": "en",
-  "title": "Understand every clause in your job offer letter instantly | Docian AI",
-  "feature": "Scan once, understand everything",
-  "pain": "A new job offer letter with a notice-period and bond clause hidden on page four",
-  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-19/brand__scan-insights__offer-letter-clause__english__c106.mp4",
-  "text": "",
-  "decide_url": "https://docian-growth.vercel.app/decide/106",
-  "set_day": "2026-11-19",
-  "video_type": "brand",
-  "added": "2026-11-18T22:09:37+00:00"
- },
- {
-  "content_id": 107,
-  "kind": "shorts_script",
-  "language": "te",
-  "title": "Offer letter bond clause-ni easy-ga chadavandi | Docian AI",
-  "feature": "Scan once, understand everything",
-  "pain": "A new job offer letter with a notice-period and bond clause hidden on page four",
-  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-19/brand__scan-insights__offer-letter-clause__telugu__c107.mp4",
-  "text": "",
-  "decide_url": "https://docian-growth.vercel.app/decide/107",
-  "set_day": "2026-11-19",
-  "video_type": "brand",
-  "added": "2026-11-18T22:09:43+00:00"
- },
- {
   "content_id": 108,
   "kind": "reel_script",
   "language": "en",
@@ -264,5 +208,19 @@
   "set_day": "2026-11-23",
   "video_type": "story",
   "added": "2026-11-22T21:40:18+00:00"
+ },
+ {
+  "content_id": 123,
+  "kind": "reel_script",
+  "language": "te",
+  "title": "స్కూల్ సర్టిఫికేట్ క్షణాల్లో దొరికింది!",
+  "feature": "",
+  "pain": "",
+  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-24/story__video__video__telugu__c123.mp4",
+  "text": "",
+  "decide_url": "https://docian-growth.vercel.app/decide/123",
+  "set_day": "2026-11-24",
+  "video_type": "story",
+  "added": "2026-11-23T10:34:04+00:00"
  }
 ]

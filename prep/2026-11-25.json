@@ -1,17 +1,11 @@
 {
  "day": "2026-11-25",
- "writer": "bank",
+ "writer": "gemini",
  "hook_style": "question",
  "angle": "public_shame",
- "summary": "Arjun, a auto driver from Warangal: traffic check",
- "ai_errors": [
-  "feature:te brand name inside a sentence (only 'Docian AI.' at the start); feature:en brand name inside a sentence (only 'Docian AI.' at the start); feature:te brand name inside a sentence (only 'Docian AI.' at the start); feature:en brand n",
-  "cta:te must name Docian AI; te: not written in Telugu; cta:en must name Docian AI",
-  "feature:en brand name inside a sentence (only 'Docian AI.' at the start); None:te brand name inside a sentence (only 'Docian AI.' at the start); None:en brand name inside a sentence (only 'Docian AI.' at the start)"
- ],
+ "summary": "An architect in Visakhapatnam faces public embarrassment at a builder's office when he cannot find his property deed, and solves it using Docian AI.",
+ "ai_errors": [],
  "ai_retry_errors": [
-  "Gemini models are unavailable right now: gemini-3.8-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Pl",
-  "Gemini models are unavailable right now: gemini-3.8-flash: ReadTimeout | gemini-3.5-flash-lite: HTTP 503 This model is currently experiencing high demand. Spike",
-  "Gemini models are unavailable right now: gemini-3.8-flash: ReadTimeout | gemini-3.5-flash-lite: HTTP 503 This model is currently experiencing high demand. Spike"
+  "te: not written in Telugu"
  ]
 }

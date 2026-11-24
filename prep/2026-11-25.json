@@ -3,9 +3,7 @@
  "writer": "gemini",
  "hook_style": "question",
  "angle": "public_shame",
- "summary": "An architect in Visakhapatnam faces public embarrassment at a builder's office when he cannot find his property deed, and solves it using Docian AI.",
+ "summary": "A worried mother in Hyderabad retrieves her daughter's lost overseas university application papers on her phone while relatives stare, using Docian AI.",
  "ai_errors": [],
- "ai_retry_errors": [
-  "te: not written in Telugu"
- ]
+ "ai_retry_errors": []
 }

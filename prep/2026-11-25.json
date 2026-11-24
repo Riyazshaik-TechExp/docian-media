@@ -8,6 +8,6 @@
  "ai_retry_errors": [
   "Gemini models are unavailable right now: gemini-3.8-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Pl",
   "Gemini models are unavailable right now: gemini-3.8-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Pl",
-  "Gemini models are unavailable right now: gemini-3.8-flash: HTTP 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Pl"
+  "Gemini free-tier limit reached (HTTP 429) on gemini-3.8-flash. You exceeded your current quota, please check your plan and billing details. For more information"
  ]
 }

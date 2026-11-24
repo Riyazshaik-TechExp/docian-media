@@ -1,61 +1,5 @@
 [
  {
-  "content_id": 108,
-  "kind": "reel_script",
-  "language": "en",
-  "title": "Stop sorting paper bills manually | Docian AI",
-  "feature": "Sorted automatically, your way",
-  "pain": "A small shop owner's GST bills mixed with personal bills and kids' school papers",
-  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-20/glass__smart-folders__shop-and-personal__english__c108.mp4",
-  "text": "",
-  "decide_url": "https://docian-growth.vercel.app/decide/108",
-  "set_day": "2026-11-20",
-  "video_type": "glass",
-  "added": "2026-11-20T12:33:51+00:00"
- },
- {
-  "content_id": 109,
-  "kind": "reel_script",
-  "language": "te",
-  "title": "Shop bills mixed with home papers? Docian AI sorts them instantly",
-  "feature": "Sorted automatically, your way",
-  "pain": "A small shop owner's GST bills mixed with personal bills and kids' school papers",
-  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-20/glass__smart-folders__shop-and-personal__telugu__c109.mp4",
-  "text": "",
-  "decide_url": "https://docian-growth.vercel.app/decide/109",
-  "set_day": "2026-11-20",
-  "video_type": "glass",
-  "added": "2026-11-20T12:34:01+00:00"
- },
- {
-  "content_id": 110,
-  "kind": "shorts_script",
-  "language": "en",
-  "title": "Find your saved documents instantly with Docian AI | Docian AI",
-  "feature": "Just ask, get the document",
-  "pain": "HR needs your degree certificate today for background verification",
-  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-20/brand__chat-get-docs__degree-for-hr__english__c110.mp4",
-  "text": "",
-  "decide_url": "https://docian-growth.vercel.app/decide/110",
-  "set_day": "2026-11-20",
-  "video_type": "brand",
-  "added": "2026-11-20T12:34:10+00:00"
- },
- {
-  "content_id": 111,
-  "kind": "shorts_script",
-  "language": "te",
-  "title": "డిగ్రీ సర్టిఫికేట్. సాయంత్రం 5 లోపు. | అడగండి, డాక్యుమెంట్ వచ్చేస్తుంది | Docian AI",
-  "feature": "Just ask, get the document",
-  "pain": "HR needs your degree certificate today for background verification",
-  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-20/brand__chat-get-docs__degree-for-hr__telugu__c111.mp4",
-  "text": "",
-  "decide_url": "https://docian-growth.vercel.app/decide/111",
-  "set_day": "2026-11-20",
-  "video_type": "brand",
-  "added": "2026-11-20T12:34:17+00:00"
- },
- {
   "content_id": 112,
   "kind": "reel_script",
   "language": "en",
@@ -236,5 +180,19 @@
   "set_day": "2026-11-24",
   "video_type": "story",
   "added": "2026-11-23T10:34:07+00:00"
+ },
+ {
+  "content_id": 125,
+  "kind": "reel_script",
+  "language": "te",
+  "title": "ఒక్క గంట. లేదంటే ఫస్ట్ జాబ్ పోతుంది | Docian AI",
+  "feature": "",
+  "pain": "",
+  "preview_url": "https://riyazshaik-techexp.github.io/docian-media/v/2026-11-25/story__video__video__telugu__c125.mp4",
+  "text": "",
+  "decide_url": "https://docian-growth.vercel.app/decide/125",
+  "set_day": "2026-11-25",
+  "video_type": "story",
+  "added": "2026-11-24T13:00:57+00:00"
  }
 ]
